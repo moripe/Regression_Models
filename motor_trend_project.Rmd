@@ -34,6 +34,7 @@ str(mtcars)
 ```
 
 
+
 ##Exploratory data analysis
 
 We do some basic exploratory data analyses and we can see the figures in "Appendix of Figures"
